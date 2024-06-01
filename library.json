@@ -7,7 +7,7 @@
         "type": "git",
         "url": "https://github.com/stevemarple/SoftWire"
     },
-    "license": "GNU",
+    "license": "LGPL-2.1-or-later",
     "frameworks": "Arduino",
     "platforms": "*",
     "dependencies": [
